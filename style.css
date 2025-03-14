@@ -1,0 +1,52 @@
+*{
+ 
+}
+body {
+    margin: 0;
+    font-family: pacifico;
+}
+h1 {
+    margin: 0;
+}
+#top {
+    background-color: #c7ecee;
+    text-align: center;
+    padding: 10px 20px;
+  
+}
+div {
+   
+}
+.wrapper {
+    position: relative;
+}
+#main {
+    margin: 20px 0 40px 0;
+    padding: 0;
+    width: 1000px;
+    
+}
+#main h1, #main p {
+    margin: 10px 0 15px 0;
+}
+#sidebar {
+    position: absolute;
+    right: 20px;
+    top: -10px;
+    width: 700px;
+    padding: 0 20px 0 20px;
+    border: 2px dashed #30336b;
+}
+#sidebar img{
+    max-width: 30%;
+    margin: 0;
+}
+
+#bottom{
+    background-color: #f6e58d;
+    text-align: center;
+    line-height: 30px;
+}
+#container {
+    width: 1000px;
+}
